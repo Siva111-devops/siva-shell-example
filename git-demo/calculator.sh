@@ -1,1 +1,3 @@
-echo "Division function"
+
+echo "Division function
+echo "Multiply function"
