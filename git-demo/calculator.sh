@@ -1,1 +1,1 @@
-echo "Calculator Project"
+echo "Multiply function"
